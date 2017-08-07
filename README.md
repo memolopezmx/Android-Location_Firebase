@@ -115,7 +115,7 @@ Android Aplication: Localización y Conexión DB Firebase
         En Android Studio seleccionamos Grandle Scripts > Build Grandle Project y pegamos: <i>classpath 'com.google.gms:google-services:3.1.0'</i> (o el que nos idique Firebase) dentro de buildscript > dependencies
     </p>
     <p align="center">
-        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img14.png" width="682" height="365">     
+        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img15.png" width="682" height="365">     
     </p>
     </li>
     <li>
