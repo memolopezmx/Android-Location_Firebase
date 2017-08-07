@@ -120,7 +120,10 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
     <li>
     <p align="justify">
-        asdf
+        En Android Studio seleccionamos Grandle Scripts > Build Grandle APP y pegamos: <i>classpath 'apply plugin: 'com.google.gms.google-services'</i> (o el que nos idique Firebase) en la última linea de códig. Así mismo agregamos dentro de dependencies las dependencas que vayamos a usar las podemos consultar en <a href="https://firebase.google.com/docs/android/setup">la documentación oficial</a>.
+    </p>
+    <p align="justify">
+        NOTA: En mi caso tuve problemas importando dependencias por las versiones que me marcaba este <a href="https://www.youtube.com/watch?v=TN4W5Gjd38c">tutorial</a> con las versiones de la documentación oficial (10.2.1) no tuve ningun problema, pero tuve problema cuando lo integre con Google Maps ya que la versión de mis mapas es (11.0.2) entonces a todas las dependencias les puse 11.0.2 y no tuve ningun problema.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img16.png" width="682" height="365">     
@@ -190,3 +193,4 @@ Android Aplication: Localización y Conexión DB Firebase
 * <a href="https://www.youtube.com/watch?v=TN4W5Gjd38c">Curso de Firebase en Android #1 La implementación </a>
 * <a href="https://www.youtube.com/watch?v=1nDfMSdu49U">Curso de Firebase en Android #2 Bases de datos </a>
 * <a href="https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certificate">SHA-1 fingerprint of keystore certificate</a>
+* <a href="https://www.youtube.com/watch?v=TN4W5Gjd38c">Dependencias - Agregando Firebase a tu proyecto Android</a>
