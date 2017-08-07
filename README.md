@@ -56,7 +56,7 @@ Android Aplication: Localización y Conexión DB Firebase
         Una vez creado seleccionamos nuestro proyecto, nos vamos a <i>Database</i> y a <i>REGLAS</i> y las modificamos ambas a <i>TRUE</i<:
     </p>
     <p align="center">
-        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img6.png" width="682" height="365">     
+        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img7.png" width="682" height="365">     
     </p>
     </li>
     <li>
