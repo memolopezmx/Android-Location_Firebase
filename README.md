@@ -12,8 +12,6 @@ Android Aplication: Localización y Conexión DB Firebase
     La presente aplicación busca obtener la ubicación del usuario y compartirla en tiempo real.
 </p>
 
-## Técnico
-
 <p align="justify">
     Para lograr esto hacemos uso de una DB No Relacional que nos provee <i>Firebase</i>.
 </p>
