@@ -61,7 +61,10 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
     <li>
     <p align="justify">
-        App > Flavors > Application Id
+        App > Flavors > Application Id copiamos y lo pegamos.
+    </p>
+    <p align="justify">
+        NOTA: Podemos agregar un SHA-1 que podriamos obtener con un comando en la consola de Android Studio (en mi caso no funciono), con Grandles (en mi caso desconfiguro mi proyecto), Creando un Activity de Mapas y copiandolo. En mi caso aun que obtuve el SHA-1 me causo problemas y no me asocio correctamente con Firebase. Como es opcional en mi caso lo omití.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img8.png" width="682" height="365">     
