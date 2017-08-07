@@ -134,7 +134,7 @@ Android Aplication: Localización y Conexión DB Firebase
         asdf
     </p>
     <p align="center">
-        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img17.png" width="682" height="365">     
+        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img18.png" width="682" height="365">     
     </p>
     </li>
     <li>
