@@ -72,7 +72,7 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
     <li>
     <p align="justify">
-        Una vez creado seleccionamos nuestro proyecto, nos vamos a <i>Database</i> y a <i>REGLAS</i> y las modificamos ambas a <i>TRUE</i<:
+        Al terminar de pegar nuestro Id y seleccionar continuar, nos genera un archivo .JSON lo descargamos y cambiamos a <i>PROJECT</i> para ver la gerarquia de archivos de nuestro proyecto.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img9.png" width="682" height="365">     
@@ -83,7 +83,7 @@ Android Aplication: Localización y Conexión DB Firebase
         Una vez creado seleccionamos nuestro proyecto, nos vamos a <i>Database</i> y a <i>REGLAS</i> y las modificamos ambas a <i>TRUE</i<:
     </p>
     <p align="center">
-        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img4.png" width="682" height="365">     
+        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img10.png" width="682" height="365">     
     </p>
     </li>
     <li>
