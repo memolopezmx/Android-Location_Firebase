@@ -32,12 +32,12 @@ Android Aplication: Localización y Conexión DB Firebase
         Una vez creado seleccionamos nuestro proyecto, nos vamos a <i>Database</i> y a <i>REGLAS</i> y las modificamos ambas a <i>TRUE</i<:
     </p>
     <p align="center">
-        Nos pide que copiemos el <i>IDENTIFICADOR</i> de nuestra aplicación para allar lo nos vamos a <i>Android Studio</i>.
+        <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img4.png" width="682" height="365">     
     </p>
     </li>
     <li>
     <p align="justify">
-        Creamos una nueva aplicación para Android y nos saldran las instrucciones para ligar <i>Firebase</i> con nuestro proyecto.
+        Nos pide que copiemos el <i>IDENTIFICADOR</i> de nuestra aplicación para allar lo nos vamos a <i>Android Studio</i>.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img5.png" width="682" height="365">     
