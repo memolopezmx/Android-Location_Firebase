@@ -148,7 +148,7 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
 </ol>
 
-Para usar la DB basta con conseguir una instancia, pasar la referencia o ruta que queramos modificar:
+Para usar la DB basta con conseguir una instancia y pasar la referencia o ruta que queramos modificar:
 
 ```
     private void actualizarUbicacion(Location location) {
