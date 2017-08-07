@@ -37,7 +37,7 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
     <li>
     <p align="justify">
-        Nos pide que copiemos el <i>IDENTIFICADOR</i> de nuestra aplicación para allar lo nos vamos a <i>Android Studio</i>.
+        Agregamos una nueva aplicación para <i>Android</i>.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img5.png" width="682" height="365">     
@@ -45,7 +45,7 @@ Android Aplication: Localización y Conexión DB Firebase
     </li>
     <li>
     <p align="justify">
-        Una vez creado seleccionamos nuestro proyecto, nos vamos a <i>Database</i> y a <i>REGLAS</i> y las modificamos ambas a <i>TRUE</i<:
+        Nos pide que copiemos el <i>IDENTIFICADOR</i> de nuestra aplicación para allar lo nos vamos a <i>Android Studio</i>.
     </p>
     <p align="center">
         <img src="https://github.com/ginppian/Android-Location_Firebase/blob/master/imgs/img6.png" width="682" height="365">     
